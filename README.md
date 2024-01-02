@@ -23,5 +23,5 @@ endpoints.<br>
 <b>Documentation:/b><br>
 • Document the API endpoints, including details about request methods, URL paths, expected
 request body format, and response formats.<br>
-<b>Testing:<b/><br>
+<b>Testing:</b><br>
 • Write basic tests to ensure API endpoints are functioning as expected.<br>
