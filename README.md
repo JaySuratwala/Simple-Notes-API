@@ -20,7 +20,7 @@ access or modify non-existent notes, etc.<br>
 <b>Basic Authentication (Optional):<b/><br>
 • If time permits, add a simple authentication mechanism (like Basic Auth) to protect the
 endpoints.<br>
-<b>Documentation:/b><br>
+<b>Documentation:</b><br>
 • Document the API endpoints, including details about request methods, URL paths, expected
 request body format, and response formats.<br>
 <b>Testing:</b><br>
